@@ -1,0 +1,26 @@
+[ {
+  "id" : "1",
+  "salonAd" : "Salon 1",
+  "filmler" : [ {
+    "id" : "1",
+    "ad" : "Yıldızlar Arası",
+    "sure" : 169,
+    "tur" : "Bilim Kurgu",
+    "salonlar" : null
+  }, {
+    "id" : "2",
+    "ad" : "Yavaş ve Öfkeli",
+    "sure" : 120,
+    "tur" : "Aksiyon",
+    "salonlar" : null
+  } ],
+  "musteriler" : [ {
+    "id" : "1",
+    "ad" : "Ali",
+    "soyad" : "Kara"
+  }, {
+    "id" : "2",
+    "ad" : "Veli",
+    "soyad" : "Yılmaz"
+  } ]
+} ]
